@@ -9,7 +9,9 @@ SELF REPLICATING CUBES OF TRASH WHICH CAN BECOME THE INTERNET OF DIRT!
  - [QUANTUMNOISE.ORG](https://quantumnoise.org)
  - [SOUTHPLATTE.NET](https://southplatte.net)
  - [SLOANSLAKE.ART](https:sloanslake.art)
-
+ - [DIRT WIZARD ON MASTODON](https://kolektiva.social/@trashrobot)
+ - [DIRT WIZARD ON TIKTOK](https://www.tiktok.com/@DIRT_WIZARD666)
+ 
 ![](https://raw.githubusercontent.com/LafeLabs/DIRTCUBE/main/trashmagic/cubes.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/DIRTCUBE/main/trashmagic/pi.png)
