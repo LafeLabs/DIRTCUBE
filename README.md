@@ -2,6 +2,14 @@
 
 SELF REPLICATING CUBES OF TRASH WHICH CAN BECOME THE INTERNET OF DIRT!
 
+ - [LOCALHOST](http://localhost)
+ - [TRASHROBOT.ORG](https://trashrobot.org)
+ - [COLFAX.SITE](https://colfax.site)
+ - [QUANTUMART.ORG](https://quantumart.org)
+ - [QUANTUMNOISE.ORG](https://quantumnoise.org)
+ - [SOUTHPLATTE.NET](https://southplatte.net)
+ - [SLOANSLAKE.ART](https:sloanslake.art)
+
 ![](https://raw.githubusercontent.com/LafeLabs/DIRTCUBE/main/trashmagic/cubes.png)
 
 ![](https://raw.githubusercontent.com/LafeLabs/DIRTCUBE/main/trashmagic/pi.png)
